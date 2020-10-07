@@ -23,7 +23,7 @@ def banner():
 |  $$$$$$/| $$ \/  | $$|  $$$$$$/      | $$$$$$$/|  $$$$$$/| $$ \/  | $$| $$$$$$$/| $$$$$$$$| $$  | $$
  \______/ |__/     |__/ \______/       |_______/  \______/ |__/     |__/|_______/ |________/|__/  |__/
                                                                                                                                                                                                     
-                                   By : D3XBugg3R  
+                                   By : SHADOWHACKZ  
                                 With <3 of T34M GCA                                                                                                  
     Note : I won't be responsible for any damage caused by this script, Use at your own risk
 """)
